@@ -1,0 +1,1322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cateaf - Leaf&#39;s blog</title>
+  <subtitle>Leaf&#39;s blog</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://cateaf.com/"/>
+  <updated>2017-03-10T06:48:13.915Z</updated>
+  <id>http://cateaf.com/</id>
+  
+  <author>
+    <name>Leaf Hsiao</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hnu-thesis-template</title>
+    <link href="http://cateaf.com/2017/03/02/hnu-thesis-template/"/>
+    <id>http://cateaf.com/2017/03/02/hnu-thesis-template/</id>
+    <published>2017-03-01T17:37:46.000Z</published>
+    <updated>2017-03-10T06:48:13.915Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://github.com/leaf-hsiao/HNUThesisTemplate/tree/master" target="_blank" rel="external">湖南大学本科生毕业论文$\LaTeX$模板</a></p>
+<p>终于写完了。。。</p>
+<p>写模板逼死写论文；（</p>
+<p>在猝死之前睡觉去。。。</p>
+<p>（神志不清</p>
+<p>——————</p>
+<p>PS:</p>
+<p>每一章请在<code>body\</code>中建立独立的<code>tex</code>文件，并在<code>thesis.tex</code>中加入</p>
+<p>图片保存在<code>figures\</code>中</p>
+<p>论文标题等信息在<code>preface\cover.tex</code></p>
+<p>致谢在<code>appendix\acknowledgements.tex</code></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://github.com/leaf-hsiao/HNUThesisTemplate/tree/master&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;湖南大学本科生毕业论文$\LaTeX$模板&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;终于写
+    
+    </summary>
+    
+      <category term="Project" scheme="http://cateaf.com/categories/Project/"/>
+    
+    
+      <category term="$\LaTeX$" scheme="http://cateaf.com/tags/LaTeX/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Workflow</title>
+    <link href="http://cateaf.com/2017/01/24/workflow/"/>
+    <id>http://cateaf.com/2017/01/24/workflow/</id>
+    <published>2017-01-24T12:28:17.000Z</published>
+    <updated>2017-03-06T02:56:07.969Z</updated>
+    
+    <content type="html"><![CDATA[<p>购买了<a href="https://itunes.apple.com/cn/app/id915249334" target="_blank" rel="external">Workflow</a>之后，你果的设备生产力提高了两台Nexus</p>
+<p>正如<a href="https://my.workflow.is" target="_blank" rel="external">官方</a>所宣称的</p>
+<blockquote>
+<p>Spend less taps, get more done.</p>
+</blockquote>
+<p>这里将列举一些有趣的Workflow（<em>虽然官方已经加入了gallery功能</em></p>
+<p>那就打造成个人向的收藏夹吧</p>
+<a id="more"></a>
+<h3 id="Day-One-Coffee-Log"><a href="#Day-One-Coffee-Log" class="headerlink" title="Day One Coffee Log"></a><a href="https://workflow.is/workflows/242dc8d6f0d644d4ad43ef601aca2767" target="_blank" rel="external">Day One Coffee Log</a></h3><blockquote>
+<p>Create a Day One entry for coffee tasting notes.</p>
+</blockquote>
+<p>及其便利的在Day One中记录咖啡记录，便利的记录产地，烘焙度，口感还有设备等信息</p>
+<h3 id="Pocket-to-Instapaper"><a href="#Pocket-to-Instapaper" class="headerlink" title="Pocket to Instapaper"></a><a href="https://workflow.is/workflows/737a6290130e4037b23cd62ebe1a6cb7" target="_blank" rel="external">Pocket to Instapaper</a></h3><p>RT,自从Instapaper免费了之后，有考虑从Pocket迁移到Instapaper去，不过也仅仅只是考虑了一下下，还是Pocket好用</p>
+<h3 id="网易云音乐-➡️-Apple-Music"><a href="#网易云音乐-➡️-Apple-Music" class="headerlink" title="网易云音乐 ➡️ Apple Music"></a><a href="https://workflow.is/workflows/ffe1284fec1640dfa76ea1481bebc326" target="_blank" rel="external">网易云音乐 ➡️ Apple Music</a></h3><p>同样也是迁移用，Apple Music有教育优惠很棒棒哦</p>
+<h3 id="Send-To-Kindle"><a href="#Send-To-Kindle" class="headerlink" title="Send To Kindle"></a><a href="https://workflow.is/workflows/1c9f4359aa164c618436b18ad6da04fb" target="_blank" rel="external">Send To Kindle</a></h3><blockquote>
+<p>Send the current web page to your Kindle.</p>
+</blockquote>
+<p>比起复制链接到微信里打开再分享到亚马逊的服务号还是高效很多的</p>
+<h3 id="万能扫码"><a href="#万能扫码" class="headerlink" title="万能扫码"></a><a href="https://workflow.is/workflows/d0bce79316f044d7badcfc40e3b69dbc" target="_blank" rel="external">万能扫码</a></h3><blockquote>
+<p>现支持支付宝、淘宝、京东、微信<em>、微博</em>、豆瓣、大众点评、115。*需跳转到App本身二次扫码，仍在完善中…</p>
+</blockquote>
+<p>在<a href="http://sspai.com/37132" target="_blank" rel="external">sspai</a>上发现的，终于不用每次问老板这是啥的二维码然后又去找软件了</p>
+<h3 id="快递查询"><a href="#快递查询" class="headerlink" title="快递查询"></a><a href="https://workflow.is/workflows/8bfb633d09fd40a58079c8c62928d537" target="_blank" rel="external">快递查询</a></h3><p>同样来源于<a href="http://sspai.com/36871" target="_blank" rel="external">sspai</a>，作者提供了几种查快递的方式（大概在快递100不修改api之前都能使用吧</p>
+<p>（有发现再补充</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;购买了&lt;a href=&quot;https://itunes.apple.com/cn/app/id915249334&quot;&gt;Workflow&lt;/a&gt;之后，你果的设备生产力提高了两台Nexus&lt;/p&gt;
+&lt;p&gt;正如&lt;a href=&quot;https://my.workflow.is&quot;&gt;官方&lt;/a&gt;所宣称的&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Spend less taps, get more done.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这里将列举一些有趣的Workflow（&lt;em&gt;虽然官方已经加入了gallery功能&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;那就打造成个人向的收藏夹吧&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="productivity" scheme="http://cateaf.com/categories/productivity/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于建模软件的。。。</title>
+    <link href="http://cateaf.com/2016/08/31/all-about-modeling-soft/"/>
+    <id>http://cateaf.com/2016/08/31/all-about-modeling-soft/</id>
+    <published>2016-08-31T04:04:12.000Z</published>
+    <updated>2016-09-15T02:04:44.324Z</updated>
+    
+    <content type="html"><![CDATA[<p><em>1年前老博客上的文章了，刚好在这次国赛前找到了，修正一些数据后重新发布</em></p>
+<a id="more"></a>
+<h1 id="Lingo"><a href="#Lingo" class="headerlink" title="Lingo"></a>Lingo</h1><blockquote>
+<p>LINGO全称是Linear INteractive and General Optimizer的缩写—-交互式的线性和通用优化求解器。它是一套设计用来帮助您快速，方便和有效的构建和求解线性，非线性，和整数最优化模型的功能全面的工具。包括功能强大的建模语言，建立和编辑问题的全功能环境，读取和写入Excel和数据库的功能，和一系列完全内置的求解程序.</p>
+</blockquote>
+<p><a href="http://www.lindo.com/" target="_blank" rel="external">Official Website</a></p>
+<p><em>强迫症表示不用正版不舒服233333（其实是因为破解版大多都不完整）</em></p>
+<ol>
+<li>在官网上找到合适的版本<a href="http://www.lindo.com/index.php?option=com_content&amp;view=article&amp;id=35&amp;Itemid=20" target="_blank" rel="external">List</a><br><img src="http://7rf2em.com1.z0.glb.clouddn.com/blogsoft-1.png" alt=""><br>填写好信息<br><img src="http://7rf2em.com1.z0.glb.clouddn.com/blogsoft-2.png" alt=""><br>在邮箱里可以收到下载地址<br>或者直接在此下载（我只下了Lingo15的64位Linux版和Windows版，需要其他版本的只能自己去下了）<br><a href="http://www.lindo.com/downloads/LINGO-LINUX-64x86-15.0.run" target="_blank" rel="external">Linux64</a><br><a href="http://www.lindo.com/downloads/LINGO-WINDOWS-64x86-15.0.zip" target="_blank" rel="external">Windos64</a></li>
+<li>首次运行选择Demo，即免费试用版，然后会有提示教育用途可以申请完整的lingo licence。确认之后会在lingo的安装目录下生成一个userinfo.txt</li>
+<li>将该文件以附件的形式发送给sales@lindo.com。<em>所以建议使用edu邮箱</em><pre><code>![](http://7rf2em.com1.z0.glb.clouddn.com/blogsoft-3.png)
+在72小时内会收到回复（我只等了1个小时）
+![](http://7rf2em.com1.z0.glb.clouddn.com/blogsoft-4.png)
+就有了一个为期6个月的educational research
+license key。
+</code></pre></li>
+<li>输入license<pre><code>![](http://7rf2em.com1.z0.glb.clouddn.com/blogsoft-5.png)
+就可以使用正版的lingo了
+![](http://7rf2em.com1.z0.glb.clouddn.com/blogsoft-6.png)
+</code></pre></li>
+<li>刚刚发邮件确认了这个key到期了可以再申请（所以学生期间可以无限用咯）</li>
+</ol>
+<p><em>补充：demo的license是1年，edu申请的是半年但是后者功能没有任何限制，变量个数等都是unlimited</em></p>
+<h1 id="Matlab"><a href="#Matlab" class="headerlink" title="Matlab"></a>Matlab</h1><blockquote>
+<p>MATLAB® 是一个高级语言交互环境，可执行数值计算、可视化和编程。使用 MATLAB，您可以分析数据、开发算法以及创建模型和应用程序。使用相应语言、工具和内置数学函数，您可以探索多种方法并实现比电子表格或其他编程语言（例如 C/C++ 或 Java®）更快的解决方案。您可以将 MATLAB 用于大量应用，包括信号处理和通信、图像和视频处理、源代码管理系统、测试和测量、计算金融和计算生物。本行业及学术界中有超过一百万工程师和科学家使用 MATLAB 这种技术计算语言。</p>
+</blockquote>
+<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p><a href="https://cn.mathworks.com/downloads/web_downloads/select_platform" target="_blank" rel="external">Download</a><br><em>由于官网速度以及流量问题，还是推荐去pt站下载吧</em><br>在<a href="https://cn.mathworks.com/programs/trials/trial_request.html" target="_blank" rel="external">MathWorks</a>上可以申请30天的封装试用版的试用。<br><img src="http://7rf2em.com1.z0.glb.clouddn.com/blogsoft-7.png" alt=""><br>要是像我一样有正版强迫症也可以叫美国同学帮你弄教育版或者自己去<a href="http://www.fakenamegenerator.com/advanced.php" target="_blank" rel="external">生成美国人信息</a>，再<a href="https://eims.maricopa.edu/MAW/MAW.html" target="_blank" rel="external">注册edu</a><em>没有验证过可行性</em></p>
+<p>PS: MathWorks 为 cumcm提供软件支持. 如果您的团队参加该竞赛并需要相关软件，可以<a href="http://cn.mathworks.com/academia/student-competitions/cumcm/" target="_blank" rel="external">申请使用</a></p>
+<h2 id="工具箱"><a href="#工具箱" class="headerlink" title="工具箱"></a>工具箱</h2><p>从matlab7.0的1G不到到现在2015a的7G多，除了软件的更新，另外就是工具箱的扩充。安装的时候其实没必要全装了（120G的SSD实在吃不消</p>
+<p>常用的有</p>
+<p>1.计算金融学</p>
+<blockquote>
+<p>开发定量化应用程序并为市场数据建模，以实现最佳化性能和最小化风险。您可以将模型与数据来源集成，然后部署应用程序。</p>
+</blockquote>
+<ul>
+<li>MATLAB</li>
+<li>Curve Fitting Toolbox</li>
+<li>Database Toolbox</li>
+<li>Datafeed Toolbox</li>
+<li>Econometrics Toolbox</li>
+<li>Financial Instruments Toolbox</li>
+<li>Financial Toolbox</li>
+<li>Global Optimization Toolbox</li>
+<li>Optimization Toolbox</li>
+<li>Parallel Computing Toolbox</li>
+<li>Spreadsheet Link EX</li>
+<li>Statistics and Machine Learning Toolbox</li>
+<li>Symbolic Math Toolbox</li>
+</ul>
+<p>2.控制系统</p>
+<blockquote>
+<p>通过开发定制算法，在实施之前检验设计一致性并自动部署代码，来建模、确认和验证您的控制设计。</p>
+</blockquote>
+<ul>
+<li>MATLAB</li>
+<li>Simulink</li>
+<li>Control System Toolbox</li>
+<li>Signal Processing Toolbox</li>
+<li>Simulink Control Design</li>
+<li>Stateflow</li>
+<li>System Identification Toolbox</li>
+</ul>
+<p>3.图像处理和计算机视觉</p>
+<blockquote>
+<p>使用图形工具对图像和视频进行可视化和操作。连接到硬件并使用参考标准算法库开发新思路。</p>
+</blockquote>
+<ul>
+<li>MATLAB</li>
+<li>Computer Vision System Toolbox</li>
+<li>Image Acquisition Toolbox</li>
+<li>Image Processing Toolbox</li>
+<li>Parallel Computing Toolbox</li>
+<li>Signal Processing Toolbox</li>
+<li>Statistics and Machine Learning Toolbox</li>
+</ul>
+<p>4.信号处理和通信</p>
+<blockquote>
+<p>探索信号处理和应用，如音频和语音处理、信号可视化、时间和频率分析以及信号数据分析。</p>
+</blockquote>
+<ul>
+<li>MATLAB</li>
+<li>Simulink</li>
+<li>Communications System Toolbox</li>
+<li>Data Acquisition Toolbox</li>
+<li>DSP System Toolbox</li>
+<li>Instrument Control Toolbox</li>
+<li>Signal Processing Toolbox</li>
+</ul>
+<p>5.计算生物学</p>
+<blockquote>
+<p>使用数据分析和数学建模来理解和预测生物行为。您可以导入数据并为其建模，自动化工作流程元素，然后为研究定制算法和工具。</p>
+</blockquote>
+<ul>
+<li>MATLAB</li>
+<li>Bioinformatics Toolbox</li>
+<li>Curve Fitting Toolbox</li>
+<li>Global Optimization Toolbox</li>
+<li>Image Processing Toolbox</li>
+<li>Instrument Control Toolbox</li>
+<li>Optimization Toolbox</li>
+<li>Parallel Computing Toolbox</li>
+<li>Signal Processing Toolbox</li>
+<li>SimBiology</li>
+<li>Statistics and Machine Learning Toolbox</li>
+</ul>
+<p>6.数据分析</p>
+<blockquote>
+<p>通过实施数据拟合与动态系统建模和控制，对数据进行分析和深入了解。找到最佳解决方案并开发预测模型。</p>
+</blockquote>
+<ul>
+<li>MATLAB</li>
+<li>Curve Fitting Toolbox</li>
+<li>Database Toolbox</li>
+<li>Global Optimization Toolbox</li>
+<li>Neural Network Toolbox</li>
+<li>Optimization Toolbox</li>
+<li>Parallel Computing Toolbox</li>
+<li>Statistics and Machine Learning Toolbox</li>
+<li>Symbolic Math Toolbox</li>
+</ul>
+<h1 id="Maple"><a href="#Maple" class="headerlink" title="Maple"></a>Maple</h1><blockquote>
+<p>Maple内置5,000多个计算函数，覆盖几乎所有的数学领域，领先的计算引擎提供广度、深度、和性能满足各种科学计算需求。Maple透过友好的智能界面提供强大的符号推导功能、无限精度数值计算、丰富的可视化工具、完整的编程语言、广泛的接口、美观的技术文件等，是您进行数学工作的理想工作环境。</p>
+</blockquote>
+<p>中国用户在此查看<a href="http://www.cybernet.sh.cn/product/2.html" target="_blank" rel="external">产品列表</a>包括Maple，MapleSim，Maple T.A.等<br>还有免费的<a href="http://www.cybernet.sh.cn/product/146.html" target="_blank" rel="external">Maple Player</a></p>
+<blockquote>
+<p>Maple Player 是一个免费程序，允许用户浏览和交互式操作任意的Maple文件。用户即使没有安装Maple软件，也能完成计算、可视化结果、以及探索概念。用户可以使用Maple Player打开其他人创建的Maple文件，Maplesoft也提供了大量的Maple文件，这些资料收集在Application Center，Teacher Resource Center， Maple Primes，The Mobius Project等。</p>
+</blockquote>
+<p>(其实够用了，毕竟用Maple用得少)</p>
+<h1 id="Wolfram-Mathematica"><a href="#Wolfram-Mathematica" class="headerlink" title="Wolfram Mathematica"></a>Wolfram Mathematica</h1><blockquote>
+<p>全球现代技术计算的终极系统</p>
+</blockquote>
+<p>真.神器<br>介绍看<a href="http://www.wolfram.com/mathematica/" target="_blank" rel="external">官网</a></p>
+<p>有Online版的和Desktop版的，但是价格是惊人的贵，而且也只有15天的试用期，无免费版。但是Mathematica和WolframLanguage集成到Raspbian中。所以可以购买只有25刀的<a href="https://www.raspberrypi.org/" target="_blank" rel="external">树莓派</a>享用正版Mathematica。（为什么还不剁手！</p>
+<h1 id="R"><a href="#R" class="headerlink" title="R"></a>R</h1><blockquote>
+<p>R是用于统计分析、绘图的语言和操作环境。R是属于GNU系统的一个自由、免费、源代码开放的软件，它是一个用于统计计算和统计制图的优秀工具。</p>
+</blockquote>
+<p><a href="https://www.r-project.org/" target="_blank" rel="external">下载</a><br>新手推荐使用<a href="https://www.rstudio.com/" target="_blank" rel="external">RStudio</a>当作IDE。</p>
+<p>另也有spss,eviews等收费软件可以使用</p>
+<h1 id="LaTeX"><a href="#LaTeX" class="headerlink" title="$\LaTeX$"></a>$\LaTeX$</h1><blockquote>
+<p>基于$TeX$的排版系统，由美国电脑学家莱斯利·兰伯特在20世纪80年代初期开发，利用这种格式，即使使用者没有排版和程序设计的知识也可以充分发挥由$TeX$所提供的强大功能，能在几天，甚至几小时内生成很多具有书籍品质的印刷品。对于生成复杂表格和数学公式，这一点表现得尤为突出。因此它非常适用于生成高印刷质量的科技和数学类文档。这个系统同样适用于生成从简单的信件到完整书籍的所有其他种类的文档。</p>
+</blockquote>
+<p>已经不是建模软件了（关于写论文用$\TeX$还是Word还是看个人喜好吧，$\TeX$更方便更漂亮而已</p>
+<p><del>可以使用<a href="http://www.ctex.org/HomePage" target="_blank" rel="external">CTeX</a>作为入门套件</del></p>
+<p>不推荐使用CTeX</p>
+<blockquote>
+<ul>
+<li>CTeX 封装的 MikTeX 在实现 XeTeX 以及字体库的时候有一些问题，前者导致运行 XeLaTeX 异常缓慢，后者导致使用一些数学字体的时候会报错。</li>
+<li>CTeX 封装的默认编辑器 WinEdt 是闭源软件，实际上是在使用盗版软件。</li>
+<li>CTeX 封装的默认编辑器 WinEdt 修改了默认编码为 GBK, 这将在后续使用过程中产生很多问题，对初学者来说是不良的。</li>
+<li>CTeX 封装的默认编辑器 WinEdt 集成了太多的功能，并且修改了很多 LaTeX 的默认行为，对于初学者来说，这些未经通告的默认行为修改对于其对 LaTeX 的理解是不良的。</li>
+<li>CTeX 套装的 2.9.2.164 版本至今已经超过一年未更新，aloft 老大似乎也没有更新的愿望，事实上也没有必要再更新了。</li>
+<li>CTeX 由于封装 MikTeX 而只能运行于 Windows 平台。</li>
+<li>CTeX 是因为 CJK 包的字体配置复杂，为了免去入门用户的配置成本而推出的。</li>
+<li>而现在因为 XeTeX 引擎以及 xeCJK 宏包的出现，CJK 包已经成为过去。并且使用 zhm 可以与 CJK 结合方便地动态配置字体。因此 CTeX 曾经的优势实际上已经不成为优势，并且因其引起的各种国内期刊模板的老旧问题正不断成为阻碍中国 TeX 社区进步的恼人因素。.</li>
+</ul>
+</blockquote>
+<p>推荐使用<a href="http://tug.org/texlive/" target="_blank" rel="external">TeXlive</a>+<a href="http://texstudio.sourceforge.net/" target="_blank" rel="external">TeXstudio</a>或者用Sublime Text替代TeXstudio</p>
+<p>Update: CTeX在2月份开始又由Harry Chen和Liam Huang接手负责开发。所以随意选择啦。。。<br>PS: WinEdt也拿到了授权<br>（网上大部分模板都是在CTeX下制作的，如果想省事点的话就。。。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;em&gt;1年前老博客上的文章了，刚好在这次国赛前找到了，修正一些数据后重新发布&lt;/em&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Math" scheme="http://cateaf.com/tags/Math/"/>
+    
+      <category term="Mathematic Modelling" scheme="http://cateaf.com/tags/Mathematic-Modelling/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>$\LaTeX$ Math Symbols Cheetsheet</title>
+    <link href="http://cateaf.com/2016/08/31/latex-math-symbols-cheetsheet/"/>
+    <id>http://cateaf.com/2016/08/31/latex-math-symbols-cheetsheet/</id>
+    <published>2016-08-31T02:06:25.000Z</published>
+    <updated>2017-04-05T07:44:46.354Z</updated>
+    
+    <content type="html"><![CDATA[<p>一些基本的$\LaTeX$字符和运算符，供快速查阅使用</p>
+<a id="more"></a>
+<h1 id="Math-Mode-Accents"><a href="#Math-Mode-Accents" class="headerlink" title="Math Mode Accents"></a>Math Mode Accents</h1><table>
+<thead>
+<tr>
+<th style="text-align:center">Symbol</th>
+<th style="text-align:center">$\TeX$</th>
+<th style="text-align:center">Symbol</th>
+<th style="text-align:center">$\TeX$</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">$\hat{a}$</td>
+<td style="text-align:center">\hat{a}</td>
+<td style="text-align:center">$\check{a}$</td>
+<td style="text-align:center">\check{a}</td>
+</tr>
+<tr>
+<td style="text-align:center">$\acute{a}$</td>
+<td style="text-align:center">\acute{a}</td>
+<td style="text-align:center">$\grave{a}$</td>
+<td style="text-align:center">\grave{a}</td>
+</tr>
+<tr>
+<td style="text-align:center">$\bar{a}$</td>
+<td style="text-align:center">\bar{a}</td>
+<td style="text-align:center">$\vec{a}$</td>
+<td style="text-align:center">\vec{a}</td>
+</tr>
+<tr>
+<td style="text-align:center">$\dot{a}$</td>
+<td style="text-align:center">\dot{a}</td>
+<td style="text-align:center">$\ddot{a}$</td>
+<td style="text-align:center">\ddot{a}</td>
+</tr>
+<tr>
+<td style="text-align:center">$\breve{a}$</td>
+<td style="text-align:center">\breve{a}</td>
+<td style="text-align:center">$\tilde{a}$</td>
+<td style="text-align:center">\tilde{a}</td>
+</tr>
+</tbody>
+</table>
+<h1 id="Greek-Letters"><a href="#Greek-Letters" class="headerlink" title="Greek Letters"></a>Greek Letters</h1><table>
+<thead>
+<tr>
+<th style="text-align:center">Symbol</th>
+<th style="text-align:center">$\TeX$</th>
+<th style="text-align:center">Symbol</th>
+<th style="text-align:center">$\TeX$</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">$A$</td>
+<td style="text-align:center">A</td>
+<td style="text-align:center">$\alpha$</td>
+<td style="text-align:center">\alpha</td>
+</tr>
+<tr>
+<td style="text-align:center">$B$</td>
+<td style="text-align:center">B</td>
+<td style="text-align:center">$\beta$</td>
+<td style="text-align:center">\beta</td>
+</tr>
+<tr>
+<td style="text-align:center">$\Gamma$</td>
+<td style="text-align:center">\Gamma</td>
+<td style="text-align:center">$\gamma$</td>
+<td style="text-align:center">\gamma</td>
+</tr>
+<tr>
+<td style="text-align:center">$\Delta$</td>
+<td style="text-align:center">\Delta</td>
+<td style="text-align:center">$\delta$</td>
+<td style="text-align:center">\delta</td>
+</tr>
+<tr>
+<td style="text-align:center">$E$</td>
+<td style="text-align:center">E</td>
+<td style="text-align:center">$\epsilon$</td>
+<td style="text-align:center">\epsilon</td>
+</tr>
+<tr>
+<td style="text-align:center">$Z$</td>
+<td style="text-align:center">Z</td>
+<td style="text-align:center">$\zeta$</td>
+<td style="text-align:center">\zeta</td>
+</tr>
+<tr>
+<td style="text-align:center">$H$</td>
+<td style="text-align:center">H</td>
+<td style="text-align:center">$\eta$</td>
+<td style="text-align:center">\eta</td>
+</tr>
+<tr>
+<td style="text-align:center">$\Theta$</td>
+<td style="text-align:center">\Theta</td>
+<td style="text-align:center">$\theta$</td>
+<td style="text-align:center">\theta</td>
+</tr>
+<tr>
+<td style="text-align:center">$I$</td>
+<td style="text-align:center">I</td>
+<td style="text-align:center">$\iota$</td>
+<td style="text-align:center">\io</td>
+</tr>
+<tr>
+<td style="text-align:center">$K$</td>
+<td style="text-align:center">K</td>
+<td style="text-align:center">$\kappa$</td>
+<td style="text-align:center">\kappa</td>
+</tr>
+<tr>
+<td style="text-align:center">$\Lambda$</td>
+<td style="text-align:center">\Lambda</td>
+<td style="text-align:center">$\lambda$</td>
+<td style="text-align:center">\lambda</td>
+</tr>
+<tr>
+<td style="text-align:center">$M$</td>
+<td style="text-align:center">M</td>
+<td style="text-align:center">$\mu$</td>
+<td style="text-align:center">\mu</td>
+</tr>
+<tr>
+<td style="text-align:center">$N$</td>
+<td style="text-align:center">N</td>
+<td style="text-align:center">$\nu$</td>
+<td style="text-align:center">\nu</td>
+</tr>
+<tr>
+<td style="text-align:center">$\Xi$</td>
+<td style="text-align:center">\Xi</td>
+<td style="text-align:center">$\xi$</td>
+<td style="text-align:center">\xi</td>
+</tr>
+<tr>
+<td style="text-align:center">$O$</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">$\omicron$</td>
+<td style="text-align:center">\omicron</td>
+</tr>
+<tr>
+<td style="text-align:center">$\Pi$</td>
+<td style="text-align:center">\pi</td>
+<td style="text-align:center">$pi$</td>
+<td style="text-align:center">\pi</td>
+</tr>
+<tr>
+<td style="text-align:center">$\Sigma$</td>
+<td style="text-align:center">\Sigma</td>
+<td style="text-align:center">$\sigma$</td>
+<td style="text-align:center">\sigma</td>
+</tr>
+<tr>
+<td style="text-align:center">$T$</td>
+<td style="text-align:center">T</td>
+<td style="text-align:center">$\tau$</td>
+<td style="text-align:center">\tau</td>
+</tr>
+<tr>
+<td style="text-align:center">$\Upsilon$</td>
+<td style="text-align:center">\Upsilon</td>
+<td style="text-align:center">$\upsilon$</td>
+<td style="text-align:center">\upsilon</td>
+</tr>
+<tr>
+<td style="text-align:center">$\Phi$</td>
+<td style="text-align:center">\Phi</td>
+<td style="text-align:center">$\phi$</td>
+<td style="text-align:center">\phi</td>
+</tr>
+<tr>
+<td style="text-align:center">$X$</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">$\chi$</td>
+<td style="text-align:center">\chi</td>
+</tr>
+<tr>
+<td style="text-align:center">$\Psi$</td>
+<td style="text-align:center">\Psi</td>
+<td style="text-align:center">$\psi$</td>
+<td style="text-align:center">\psi</td>
+</tr>
+<tr>
+<td style="text-align:center">$\Omega$</td>
+<td style="text-align:center">\Omega</td>
+<td style="text-align:center">$\omega$</td>
+<td style="text-align:center">\omega</td>
+</tr>
+</tbody>
+</table>
+<h1 id="Binary-Operation-Symbols"><a href="#Binary-Operation-Symbols" class="headerlink" title="Binary Operation Symbols"></a>Binary Operation Symbols</h1><table>
+<thead>
+<tr>
+<th style="text-align:center">Symbol</th>
+<th style="text-align:center">$\TeX$</th>
+<th style="text-align:center">Symbol</th>
+<th style="text-align:center">$\TeX$</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">$\pm$</td>
+<td style="text-align:center">\pm</td>
+<td style="text-align:center">$\cap$</td>
+<td style="text-align:center">\cap</td>
+</tr>
+<tr>
+<td style="text-align:center">$\diamond$</td>
+<td style="text-align:center">\diamond</td>
+<td style="text-align:center">$\oplus$</td>
+<td style="text-align:center">\oplus</td>
+</tr>
+<tr>
+<td style="text-align:center">$\mp$</td>
+<td style="text-align:center">\mp</td>
+<td style="text-align:center">$\cup$</td>
+<td style="text-align:center">\cup</td>
+</tr>
+<tr>
+<td style="text-align:center">$\bigtriangleup$</td>
+<td style="text-align:center">\bigtriangleup</td>
+<td style="text-align:center">$\ominus$</td>
+<td style="text-align:center">\ominus</td>
+</tr>
+<tr>
+<td style="text-align:center">$\times$</td>
+<td style="text-align:center">\times</td>
+<td style="text-align:center">$\uplus$</td>
+<td style="text-align:center">\uplus</td>
+</tr>
+<tr>
+<td style="text-align:center">$\bigtriangledown$</td>
+<td style="text-align:center">\bigtriangledown</td>
+<td style="text-align:center">$\otimes$</td>
+<td style="text-align:center">\otimes</td>
+</tr>
+<tr>
+<td style="text-align:center">$\div$</td>
+<td style="text-align:center">\div</td>
+<td style="text-align:center">$\sqcap$</td>
+<td style="text-align:center">\sqcap</td>
+</tr>
+<tr>
+<td style="text-align:center">$\triangleleft$</td>
+<td style="text-align:center">\triangleleft</td>
+<td style="text-align:center">$\oslash$</td>
+<td style="text-align:center">\oslash</td>
+</tr>
+<tr>
+<td style="text-align:center">$\ast$</td>
+<td style="text-align:center">\ast</td>
+<td style="text-align:center">$\sqcup$</td>
+<td style="text-align:center">\sqcup</td>
+</tr>
+<tr>
+<td style="text-align:center">$\triangleright$</td>
+<td style="text-align:center">\triangleright</td>
+<td style="text-align:center">$\odot$</td>
+<td style="text-align:center">\odot</td>
+</tr>
+<tr>
+<td style="text-align:center">$\star$</td>
+<td style="text-align:center">\star</td>
+<td style="text-align:center">$\vee$</td>
+<td style="text-align:center">\vee</td>
+</tr>
+<tr>
+<td style="text-align:center">$\lhd$</td>
+<td style="text-align:center">\lhd</td>
+<td style="text-align:center">$\bigcirc$</td>
+<td style="text-align:center">\bigcirc</td>
+</tr>
+<tr>
+<td style="text-align:center">$\circ$</td>
+<td style="text-align:center">\circ</td>
+<td style="text-align:center">$\wedge$</td>
+<td style="text-align:center">\wedge</td>
+</tr>
+<tr>
+<td style="text-align:center">$\rhd$</td>
+<td style="text-align:center">\rhd</td>
+<td style="text-align:center">$\dagger$</td>
+<td style="text-align:center">\dagger</td>
+</tr>
+<tr>
+<td style="text-align:center">$\bullet$</td>
+<td style="text-align:center">\bullet</td>
+<td style="text-align:center">$\setminus$</td>
+<td style="text-align:center">\setminus</td>
+</tr>
+<tr>
+<td style="text-align:center">$\unlhd$</td>
+<td style="text-align:center">\unlhd</td>
+<td style="text-align:center">$\ddagger$</td>
+<td style="text-align:center">\ddagger</td>
+</tr>
+<tr>
+<td style="text-align:center">$\cdot$</td>
+<td style="text-align:center">\cdot</td>
+<td style="text-align:center">$\wr$</td>
+<td style="text-align:center">\wr</td>
+</tr>
+<tr>
+<td style="text-align:center">$\unrhd$</td>
+<td style="text-align:center">\unrhd</td>
+<td style="text-align:center">$\amalg$</td>
+<td style="text-align:center">\amalg</td>
+</tr>
+<tr>
+<td style="text-align:center">$+$</td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">$-$</td>
+<td style="text-align:center">-</td>
+</tr>
+</tbody>
+</table>
+<h1 id="Relation-Symbols"><a href="#Relation-Symbols" class="headerlink" title="Relation Symbols"></a>Relation Symbols</h1><table>
+<thead>
+<tr>
+<th style="text-align:center">Symbol</th>
+<th style="text-align:center">$\TeX$</th>
+<th style="text-align:center">Symbol</th>
+<th style="text-align:center">$\TeX$</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">$\leq$</td>
+<td style="text-align:center">\leq</td>
+<td style="text-align:center">$\geq$</td>
+<td style="text-align:center">\geq</td>
+</tr>
+<tr>
+<td style="text-align:center">$\equiv$</td>
+<td style="text-align:center">\equiv</td>
+<td style="text-align:center">$\models$</td>
+<td style="text-align:center">\models</td>
+</tr>
+<tr>
+<td style="text-align:center">$\prec$</td>
+<td style="text-align:center">\prec</td>
+<td style="text-align:center">$\succ$</td>
+<td style="text-align:center">\succ</td>
+</tr>
+<tr>
+<td style="text-align:center">$\sim$</td>
+<td style="text-align:center">\sim</td>
+<td style="text-align:center">$\perp$</td>
+<td style="text-align:center">\perp</td>
+</tr>
+<tr>
+<td style="text-align:center">$\preceq$</td>
+<td style="text-align:center">\preceq</td>
+<td style="text-align:center">$\succeq$</td>
+<td style="text-align:center">\succeq</td>
+</tr>
+<tr>
+<td style="text-align:center">$\simeq$</td>
+<td style="text-align:center">\simeq</td>
+<td style="text-align:center">$\mid$</td>
+<td style="text-align:center">\mid</td>
+</tr>
+<tr>
+<td style="text-align:center">$\ll$</td>
+<td style="text-align:center">\ll</td>
+<td style="text-align:center">$\gg$</td>
+<td style="text-align:center">\gg</td>
+</tr>
+<tr>
+<td style="text-align:center">$\asymp$</td>
+<td style="text-align:center">\asymp</td>
+<td style="text-align:center">$\parallel$</td>
+<td style="text-align:center">\parallel</td>
+</tr>
+<tr>
+<td style="text-align:center">$\subset$</td>
+<td style="text-align:center">\subset</td>
+<td style="text-align:center">$\supset$</td>
+<td style="text-align:center">\supset</td>
+</tr>
+<tr>
+<td style="text-align:center">$\approx$</td>
+<td style="text-align:center">\approx</td>
+<td style="text-align:center">$\bowtie$</td>
+<td style="text-align:center">\bowtie</td>
+</tr>
+<tr>
+<td style="text-align:center">$\subseteq$</td>
+<td style="text-align:center">\subseteq</td>
+<td style="text-align:center">$\supseteq$</td>
+<td style="text-align:center">\supseteq</td>
+</tr>
+<tr>
+<td style="text-align:center">$\cong$</td>
+<td style="text-align:center">\cong</td>
+<td style="text-align:center">$\Join$</td>
+<td style="text-align:center">\Join</td>
+</tr>
+<tr>
+<td style="text-align:center">$\sqsubset$</td>
+<td style="text-align:center">\sqsubset</td>
+<td style="text-align:center">$\sqsupset$</td>
+<td style="text-align:center">\sqsupset</td>
+</tr>
+<tr>
+<td style="text-align:center">$\neq$</td>
+<td style="text-align:center">\neq</td>
+<td style="text-align:center">$\smile$</td>
+<td style="text-align:center">\sm</td>
+</tr>
+<tr>
+<td style="text-align:center">$\sqsubseteq$</td>
+<td style="text-align:center">\sqsubseteq</td>
+<td style="text-align:center">$\sqsupseteq$</td>
+<td style="text-align:center">\sqsupseteq</td>
+</tr>
+<tr>
+<td style="text-align:center">$\doteq$</td>
+<td style="text-align:center">\doteq</td>
+<td style="text-align:center">$\frown$</td>
+<td style="text-align:center">\frown</td>
+</tr>
+<tr>
+<td style="text-align:center">$\in$</td>
+<td style="text-align:center">\in</td>
+<td style="text-align:center">$\ni$</td>
+<td style="text-align:center">\ni</td>
+</tr>
+<tr>
+<td style="text-align:center">$\propto$</td>
+<td style="text-align:center">\propto</td>
+<td style="text-align:center">$=$</td>
+<td style="text-align:center">=</td>
+</tr>
+<tr>
+<td style="text-align:center">$\vdash$</td>
+<td style="text-align:center">\vdash</td>
+<td style="text-align:center">$\dashv$</td>
+<td style="text-align:center">\dashv</td>
+</tr>
+<tr>
+<td style="text-align:center">$&lt;$</td>
+<td style="text-align:center">&lt;</td>
+<td style="text-align:center">$&gt;$</td>
+<td style="text-align:center">&gt;</td>
+</tr>
+</tbody>
+</table>
+<h1 id="Punctuation-Symbols"><a href="#Punctuation-Symbols" class="headerlink" title="Punctuation Symbols"></a>Punctuation Symbols</h1><table>
+<thead>
+<tr>
+<th style="text-align:center">Symbol</th>
+<th style="text-align:center">$\TeX$</th>
+<th style="text-align:center">Symbol</th>
+<th style="text-align:center">$\TeX$</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">$,$</td>
+<td style="text-align:center">,</td>
+<td style="text-align:center">$;$</td>
+<td style="text-align:center">;</td>
+</tr>
+<tr>
+<td style="text-align:center">$\colon$</td>
+<td style="text-align:center">\colon</td>
+<td style="text-align:center">$\ldotp$</td>
+<td style="text-align:center">\ldotp</td>
+</tr>
+<tr>
+<td style="text-align:center">$\cdotp$</td>
+<td style="text-align:center">\cdotp</td>
+<td style="text-align:center"></td>
+</tr>
+</tbody>
+</table>
+<h1 id="Arrow-Symbols"><a href="#Arrow-Symbols" class="headerlink" title="Arrow Symbols"></a>Arrow Symbols</h1><table>
+<thead>
+<tr>
+<th style="text-align:center">Symbol</th>
+<th style="text-align:center">$\TeX$</th>
+<th style="text-align:center">Symbol</th>
+<th style="text-align:center">$\TeX$</th>
+<th style="text-align:center">Symbol</th>
+<th style="text-align:center">$\TeX$</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">$\leftarrow$</td>
+<td style="text-align:center">\leftarrow</td>
+<td style="text-align:center">$\longleftarrow$</td>
+<td style="text-align:center">\longleftarrow</td>
+<td style="text-align:center">$\uparrow$</td>
+<td style="text-align:center">\uparrow</td>
+</tr>
+<tr>
+<td style="text-align:center">$\Leftarrow$</td>
+<td style="text-align:center">\Leftarrow</td>
+<td style="text-align:center">$\Longleftarrow$</td>
+<td style="text-align:center">\Longleftarrow</td>
+<td style="text-align:center">$\Uparrow$</td>
+<td style="text-align:center">\Uparrow</td>
+</tr>
+<tr>
+<td style="text-align:center">$\rightarrow$</td>
+<td style="text-align:center">\rightarrow</td>
+<td style="text-align:center">$\longrightarrow$</td>
+<td style="text-align:center">\longrightarrow</td>
+<td style="text-align:center">$\downarrow$</td>
+<td style="text-align:center">\downarrow</td>
+</tr>
+<tr>
+<td style="text-align:center">$\Rightarrow$</td>
+<td style="text-align:center">\Rightarrow</td>
+<td style="text-align:center">$\Longrightarrow$</td>
+<td style="text-align:center">\Longrightarrow</td>
+<td style="text-align:center">$\Downarrow$</td>
+<td style="text-align:center">\Downarrow</td>
+</tr>
+<tr>
+<td style="text-align:center">$\leftrightarrow$</td>
+<td style="text-align:center">\leftrightarrow</td>
+<td style="text-align:center">$\longleftrightarrow$</td>
+<td style="text-align:center">\longleftrightarrow</td>
+<td style="text-align:center">$\updownarrow$</td>
+<td style="text-align:center">\updownarrow</td>
+</tr>
+<tr>
+<td style="text-align:center">$\Leftrightarrow$</td>
+<td style="text-align:center">\Leftrightarrow</td>
+<td style="text-align:center">$\Longleftrightarrow$</td>
+<td style="text-align:center">\Longleftrightarrow</td>
+<td style="text-align:center">$\Updownarrow$</td>
+<td style="text-align:center">\Updownarrow</td>
+</tr>
+<tr>
+<td style="text-align:center">$\mapsto$</td>
+<td style="text-align:center">\mapsto</td>
+<td style="text-align:center">$\longmapsto$</td>
+<td style="text-align:center">\longmapsto</td>
+<td style="text-align:center">$\nearrow$</td>
+<td style="text-align:center">\nearrow</td>
+</tr>
+<tr>
+<td style="text-align:center">$\hookleftarrow$</td>
+<td style="text-align:center">\hookleftarrow</td>
+<td style="text-align:center">$\hookrightarrow$</td>
+<td style="text-align:center">\hookrightarrow</td>
+<td style="text-align:center">$\searrow$</td>
+<td style="text-align:center">\searrow</td>
+</tr>
+<tr>
+<td style="text-align:center">$\leftharpoonup$</td>
+<td style="text-align:center">\leftharpoonup</td>
+<td style="text-align:center">$\rightharpoonup$</td>
+<td style="text-align:center">\rightharpoonup</td>
+<td style="text-align:center">$\swarrow$</td>
+<td style="text-align:center">\swarrow</td>
+</tr>
+<tr>
+<td style="text-align:center">$\leftharpoondown$</td>
+<td style="text-align:center">\leftharpoondown</td>
+<td style="text-align:center">$\rightharpoondown$</td>
+<td style="text-align:center">\rightharpoondown</td>
+<td style="text-align:center">$\nwarrow$</td>
+<td style="text-align:center">\nwarrow</td>
+</tr>
+<tr>
+<td style="text-align:center">$\rightleftharpoons$</td>
+<td style="text-align:center">\rightleftharpoons</td>
+<td style="text-align:center">$\leadsto$</td>
+<td style="text-align:center">\leadsto</td>
+<td style="text-align:center"></td>
+</tr>
+</tbody>
+</table>
+<h1 id="Miscellaneous-Symbols"><a href="#Miscellaneous-Symbols" class="headerlink" title="Miscellaneous Symbols"></a>Miscellaneous Symbols</h1><table>
+<thead>
+<tr>
+<th style="text-align:center">Symbol</th>
+<th style="text-align:center">$\TeX$</th>
+<th style="text-align:center">Symbol</th>
+<th style="text-align:center">$\TeX$</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">$\ldots$</td>
+<td style="text-align:center">\ldots</td>
+<td style="text-align:center">$\cdots$</td>
+<td style="text-align:center">\cdots</td>
+</tr>
+<tr>
+<td style="text-align:center">$\vdots$</td>
+<td style="text-align:center">\vdots</td>
+<td style="text-align:center">$\ddots$</td>
+<td style="text-align:center">\ddots</td>
+</tr>
+<tr>
+<td style="text-align:center">$\aleph$</td>
+<td style="text-align:center">\aleph</td>
+<td style="text-align:center">$\prime$</td>
+<td style="text-align:center">\prime</td>
+</tr>
+<tr>
+<td style="text-align:center">$\forall$</td>
+<td style="text-align:center">\forall</td>
+<td style="text-align:center">$\infty$</td>
+<td style="text-align:center">\infty</td>
+</tr>
+<tr>
+<td style="text-align:center">$\hbar$</td>
+<td style="text-align:center">\hbar</td>
+<td style="text-align:center">$\emptyset$</td>
+<td style="text-align:center">\emptyset</td>
+</tr>
+<tr>
+<td style="text-align:center">$\exists$</td>
+<td style="text-align:center">\exists</td>
+<td style="text-align:center">$\Box$</td>
+<td style="text-align:center">\Box</td>
+</tr>
+<tr>
+<td style="text-align:center">$\imath$</td>
+<td style="text-align:center">\imath</td>
+<td style="text-align:center">$\nabla$</td>
+<td style="text-align:center">\nabla</td>
+</tr>
+<tr>
+<td style="text-align:center">$\neg$</td>
+<td style="text-align:center">\neg</td>
+<td style="text-align:center">$\Diamond$</td>
+<td style="text-align:center">\Diamond</td>
+</tr>
+<tr>
+<td style="text-align:center">$\jmath$</td>
+<td style="text-align:center">\jmath</td>
+<td style="text-align:center">$\surd$</td>
+<td style="text-align:center">\surd</td>
+</tr>
+<tr>
+<td style="text-align:center">$\flat$</td>
+<td style="text-align:center">\flat</td>
+<td style="text-align:center">$\triangle$</td>
+<td style="text-align:center">\triangle</td>
+</tr>
+<tr>
+<td style="text-align:center">$\ell$</td>
+<td style="text-align:center">\ell</td>
+<td style="text-align:center">$\top$</td>
+<td style="text-align:center">\top</td>
+</tr>
+<tr>
+<td style="text-align:center">$\natural$</td>
+<td style="text-align:center">\natural</td>
+<td style="text-align:center">$\clubsuit$</td>
+<td style="text-align:center">\clubsuit</td>
+</tr>
+<tr>
+<td style="text-align:center">$\wp$</td>
+<td style="text-align:center">\wp</td>
+<td style="text-align:center">$\bot$</td>
+<td style="text-align:center">\bot</td>
+</tr>
+<tr>
+<td style="text-align:center">$\sharp$</td>
+<td style="text-align:center">\sharp</td>
+<td style="text-align:center">$\diamondsuit$</td>
+<td style="text-align:center">\diamondsuit</td>
+</tr>
+<tr>
+<td style="text-align:center">$\Re$</td>
+<td style="text-align:center">\Re</td>
+<td style="text-align:center">$\backslash$</td>
+<td style="text-align:center">\backslash</td>
+</tr>
+<tr>
+<td style="text-align:center">$\heartsuit$</td>
+<td style="text-align:center">\heartsuit</td>
+<td style="text-align:center">$\Im$</td>
+<td style="text-align:center">\Im</td>
+</tr>
+<tr>
+<td style="text-align:center">$\angle$</td>
+<td style="text-align:center">\angle</td>
+<td style="text-align:center">$\partial$</td>
+<td style="text-align:center">\partial</td>
+</tr>
+<tr>
+<td style="text-align:center">$\spadesuit$</td>
+<td style="text-align:center">\spadesuit</td>
+<td style="text-align:center">$\mho$</td>
+<td style="text-align:center">\mho</td>
+</tr>
+</tbody>
+</table>
+<h1 id="Variable-sized-Symbols"><a href="#Variable-sized-Symbols" class="headerlink" title="Variable-sized Symbols"></a>Variable-sized Symbols</h1><table>
+<thead>
+<tr>
+<th style="text-align:center">Symbol</th>
+<th style="text-align:center">$\TeX$</th>
+<th style="text-align:center">Symbols</th>
+<th style="text-align:center">$\TeX$</th>
+<th style="text-align:center">Symbol</th>
+<th style="text-align:center">$\TeX$</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">$\sum$</td>
+<td style="text-align:center">\sum</td>
+<td style="text-align:center">$\bigcap$</td>
+<td style="text-align:center">\bigcap</td>
+<td style="text-align:center">$\bigodot$</td>
+<td style="text-align:center">\bigodot</td>
+</tr>
+<tr>
+<td style="text-align:center">$\bigcap$</td>
+<td style="text-align:center">\bigcap</td>
+<td style="text-align:center">$\prod$</td>
+<td style="text-align:center">\prod</td>
+<td style="text-align:center">$\bigotimes$</td>
+<td style="text-align:center">\bigotimes</td>
+</tr>
+<tr>
+<td style="text-align:center">$\coprod$</td>
+<td style="text-align:center">\coprod</td>
+<td style="text-align:center">$\bigsqcup$</td>
+<td style="text-align:center">\bigsqcup</td>
+<td style="text-align:center">$\bigoplus$</td>
+<td style="text-align:center">\bigoplus</td>
+</tr>
+<tr>
+<td style="text-align:center">$\int$</td>
+<td style="text-align:center">\int</td>
+<td style="text-align:center">$\bigvee$</td>
+<td style="text-align:center">\bigvee</td>
+<td style="text-align:center">$\biguplus$</td>
+<td style="text-align:center">\bigup</td>
+</tr>
+<tr>
+<td style="text-align:center">$\oint$</td>
+<td style="text-align:center">\oint</td>
+<td style="text-align:center">$\bigwedge$</td>
+<td style="text-align:center">\bigwedge</td>
+<td style="text-align:center"></td>
+<td style="text-align:center">s</td>
+</tr>
+</tbody>
+</table>
+<h1 id="Log-like-Symbols"><a href="#Log-like-Symbols" class="headerlink" title="Log-like Symbols"></a>Log-like Symbols</h1><table>
+<thead>
+<tr>
+<th style="text-align:center">Symbol</th>
+<th style="text-align:center">$\TeX$</th>
+<th style="text-align:center">Symbols</th>
+<th style="text-align:center">$\TeX$</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">$\arccos$</td>
+<td style="text-align:center">\arccos</td>
+<td style="text-align:center">$\arcsin$</td>
+<td style="text-align:center">\arcsin</td>
+</tr>
+<tr>
+<td style="text-align:center">$\arctan$</td>
+<td style="text-align:center">\arctan</td>
+<td style="text-align:center">$\arg$</td>
+<td style="text-align:center">\arg</td>
+</tr>
+<tr>
+<td style="text-align:center">$\cos$</td>
+<td style="text-align:center">\cos</td>
+<td style="text-align:center">$\cosh$</td>
+<td style="text-align:center">\cosh</td>
+</tr>
+<tr>
+<td style="text-align:center">$\cot$</td>
+<td style="text-align:center">\cot</td>
+<td style="text-align:center">$\coth$</td>
+<td style="text-align:center">\coth</td>
+</tr>
+<tr>
+<td style="text-align:center">$\csc$</td>
+<td style="text-align:center">\csc</td>
+<td style="text-align:center">$\deg$</td>
+<td style="text-align:center">\deg</td>
+</tr>
+<tr>
+<td style="text-align:center">$\det$</td>
+<td style="text-align:center">\det</td>
+<td style="text-align:center">$\dim$</td>
+<td style="text-align:center">\dim</td>
+</tr>
+<tr>
+<td style="text-align:center">$\exp$</td>
+<td style="text-align:center">\exp</td>
+<td style="text-align:center">$\gcd$</td>
+<td style="text-align:center">\gcd</td>
+</tr>
+<tr>
+<td style="text-align:center">$\hom$</td>
+<td style="text-align:center">\hom</td>
+<td style="text-align:center">$\inf$</td>
+<td style="text-align:center">\inf</td>
+</tr>
+<tr>
+<td style="text-align:center">$\ker$</td>
+<td style="text-align:center">\ker</td>
+<td style="text-align:center">$\lg$</td>
+<td style="text-align:center">\lg</td>
+</tr>
+<tr>
+<td style="text-align:center">$\lim$</td>
+<td style="text-align:center">\lim</td>
+<td style="text-align:center">$\liminf$</td>
+<td style="text-align:center">\liminf</td>
+</tr>
+<tr>
+<td style="text-align:center">$\limsup$</td>
+<td style="text-align:center">\limsup</td>
+<td style="text-align:center">$\ln$</td>
+<td style="text-align:center">\ln</td>
+</tr>
+<tr>
+<td style="text-align:center">$\log$</td>
+<td style="text-align:center">\log</td>
+<td style="text-align:center">$\max$</td>
+<td style="text-align:center">\max</td>
+</tr>
+<tr>
+<td style="text-align:center">$\min$</td>
+<td style="text-align:center">\min</td>
+<td style="text-align:center">$\Pr$</td>
+<td style="text-align:center">\Pr</td>
+</tr>
+<tr>
+<td style="text-align:center">$\sec$</td>
+<td style="text-align:center">\sec</td>
+<td style="text-align:center">$\sin$</td>
+<td style="text-align:center">\sin</td>
+</tr>
+<tr>
+<td style="text-align:center">$\sinh$</td>
+<td style="text-align:center">\sinh</td>
+<td style="text-align:center">$\sup$</td>
+<td style="text-align:center">\sup</td>
+</tr>
+<tr>
+<td style="text-align:center">$\tan$</td>
+<td style="text-align:center">\tan</td>
+<td style="text-align:center">$\tanh$</td>
+<td style="text-align:center">\tanh</td>
+</tr>
+</tbody>
+</table>
+<h1 id="Delimiters"><a href="#Delimiters" class="headerlink" title="Delimiters"></a>Delimiters</h1><table>
+<thead>
+<tr>
+<th style="text-align:center">Symbol</th>
+<th style="text-align:center">$\TeX$</th>
+<th style="text-align:center">Symbols</th>
+<th style="text-align:center">$\TeX$</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">$\lfloor$</td>
+<td style="text-align:center">\lfloor</td>
+<td style="text-align:center">$\rfloor$</td>
+<td style="text-align:center">\rfloor</td>
+</tr>
+<tr>
+<td style="text-align:center">$\lceil$</td>
+<td style="text-align:center">\lceil</td>
+<td style="text-align:center">$\rceil$</td>
+<td style="text-align:center">\rceil</td>
+</tr>
+<tr>
+<td style="text-align:center">$\langle$</td>
+<td style="text-align:center">\langle</td>
+<td style="text-align:center">$\rangle$</td>
+<td style="text-align:center">\rangle</td>
+</tr>
+<tr>
+<td style="text-align:center">$/$</td>
+<td style="text-align:center">/</td>
+<td style="text-align:center">$\backslash$</td>
+<td style="text-align:center">\backslash</td>
+</tr>
+<tr>
+<td style="text-align:center">$\rmoustache$</td>
+<td style="text-align:center">\rmoustache</td>
+<td style="text-align:center">$\lmoustache$</td>
+<td style="text-align:center">\lmoustache</td>
+</tr>
+<tr>
+<td style="text-align:center">$\rgroup$</td>
+<td style="text-align:center">\rgroup</td>
+<td style="text-align:center">$\lgroup$</td>
+<td style="text-align:center">\lgroup</td>
+</tr>
+<tr>
+<td style="text-align:center">$\arrowvert$</td>
+<td style="text-align:center">\arrowvert</td>
+<td style="text-align:center">$\Arrowvert$</td>
+<td style="text-align:center">\Arrowvert</td>
+</tr>
+<tr>
+<td style="text-align:center">$\bracevert$</td>
+<td style="text-align:center">\bracevert</td>
+<td style="text-align:center"></td>
+</tr>
+</tbody>
+</table>
+<h1 id="LaTeX-Math-Constructs"><a href="#LaTeX-Math-Constructs" class="headerlink" title="$\LaTeX$ Math Constructs"></a>$\LaTeX$ Math Constructs</h1><table>
+<thead>
+<tr>
+<th style="text-align:center">Symbol</th>
+<th style="text-align:center">$\TeX$</th>
+<th style="text-align:center">Symbols</th>
+<th style="text-align:center">$\TeX$</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">$\widetilde{abc}$</td>
+<td style="text-align:center">\widetilde{abc}</td>
+<td style="text-align:center">$\widehat{abc}$</td>
+<td style="text-align:center">\widehat{abc}</td>
+</tr>
+<tr>
+<td style="text-align:center">$\overleftarrow{abc}$</td>
+<td style="text-align:center">\overleftarrow{abc}</td>
+<td style="text-align:center">$\overrightarrow{abc}$</td>
+<td style="text-align:center">\overrightarrow{abc}</td>
+</tr>
+<tr>
+<td style="text-align:center">$\overline{abc}$</td>
+<td style="text-align:center">\overline{abc}</td>
+<td style="text-align:center">$\underline{abc}$</td>
+<td style="text-align:center">\underline{abc}</td>
+</tr>
+<tr>
+<td style="text-align:center">$\overbrace{abc}$</td>
+<td style="text-align:center">\overbrace{abc}</td>
+<td style="text-align:center">$\underbrace{abc}$</td>
+<td style="text-align:center">\underbrace{abc}</td>
+</tr>
+<tr>
+<td style="text-align:center">$\sqrt{abc}$</td>
+<td style="text-align:center">\sqrt{abc}</td>
+<td style="text-align:center">$\sqrt[n]{abc}$</td>
+<td style="text-align:center">\sqrt[n]{abc}</td>
+</tr>
+<tr>
+<td style="text-align:center">$f’$</td>
+<td style="text-align:center">f’</td>
+<td style="text-align:center">$\frac{abc}{xyz}$</td>
+<td style="text-align:center">\frac{abc}{xyz}</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;一些基本的$\LaTeX$字符和运算符，供快速查阅使用&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Cheetsheet" scheme="http://cateaf.com/categories/Cheetsheet/"/>
+    
+    
+      <category term="$\LaTeX$" scheme="http://cateaf.com/tags/LaTeX/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>cumcm-thesis-template</title>
+    <link href="http://cateaf.com/2016/08/30/cumcm-thesis-template/"/>
+    <id>http://cateaf.com/2016/08/30/cumcm-thesis-template/</id>
+    <published>2016-08-30T01:46:40.000Z</published>
+    <updated>2017-03-06T02:55:51.233Z</updated>
+    
+    <content type="html"><![CDATA[<p>2016年<a href="http://www.mcm.edu.cn/" target="_blank" rel="external"><em>全国大学生数学建模竞赛</em></a> $\LaTeX$模板</p>
+<p>基于前辈的模板修改而来，为了更贴合我的使用习惯而做的改进。</p>
+<p>很惭愧，就做了一点微小的工作。</p>
+<p>Texlive2016下测试通过。</p>
+<p><a href="https://github.com/leaf-hsiao/cumcmthesis" target="_blank" rel="external">项目地址</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2016年&lt;a href=&quot;http://www.mcm.edu.cn/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;全国大学生数学建模竞赛&lt;/em&gt;&lt;/a&gt; $\LaTeX$模板&lt;/p&gt;
+&lt;p&gt;基于前辈的模板修改而来，为了更贴合我的使用习惯而做
+    
+    </summary>
+    
+      <category term="Project" scheme="http://cateaf.com/categories/Project/"/>
+    
+    
+      <category term="$\LaTeX$" scheme="http://cateaf.com/tags/LaTeX/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新启动</title>
+    <link href="http://cateaf.com/2016/06/05/a-new-beginning/"/>
+    <id>http://cateaf.com/2016/06/05/a-new-beginning/</id>
+    <published>2016-06-05T02:38:42.000Z</published>
+    <updated>2017-01-26T13:44:12.131Z</updated>
+    
+    <content type="html"><![CDATA[<p>原博的资料丢了，2年了啊，摔(╯‵□′)╯︵┻━┻ I’am angry.<br>考虑历史的行程，重新搞了个大新闻（划掉），重新搞了个新博客。<br>Github肥肠不清真，所以用了Bitbucket。<br>继续使用Hexo，这是坠吼滴。<br><img src="http://7xkidc.com1.z0.glb.clouddn.com/images/girigiri.gif"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;原博的资料丢了，2年了啊，摔(╯‵□′)╯︵┻━┻ I’am angry.&lt;br&gt;考虑历史的行程，重新搞了个大新闻（划掉），重新搞了个新博客。&lt;br&gt;Github肥肠不清真，所以用了Bitbucket。&lt;br&gt;继续使用Hexo，这是坠吼滴。&lt;br&gt;&lt;img src=&quot;htt
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
