@@ -135,7 +135,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   GitHub: https://github.com/HC1058503505
-  JianShu: http://www.jianshu.com/u/d1e4943d5dbd
+  简书: http://www.jianshu.com/u/d1e4943d5dbd
   #LinkLabel: Link
 
 
@@ -151,6 +151,7 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
+
 
 
 # Sidebar Avatar

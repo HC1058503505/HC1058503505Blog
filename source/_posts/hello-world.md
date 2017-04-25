@@ -75,9 +75,6 @@ hexo new page "tags"
 title: All tags
 date: 2017-04-24 16:01:05
 type: tags
-- Swift
-- OC
-- Java
 ```
 3. Add `tags` to theme `_config.yml`
 ```yml
@@ -99,9 +96,6 @@ hexo new page "categories"
 title: All categories
 date: 2017-04-24 16:02:15
 type: "categories"
-- Swift
-- Android
-- Other
 ```
 3. Add categories to theme `_config.yml`
 ```yml
