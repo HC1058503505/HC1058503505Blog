@@ -64,7 +64,7 @@ centralM = [[CBCentralManager alloc] initWithDelegate:self queue:nil options:nil
     	// 找到的设备必须持有它，否则CBCentralManager中也不会保存peripheral，那么CBPeripheralDelegate中的方法也不会被调用！！
         [peripherals addObject:peripheral]; 
         // [manager stopScan]; // 根据需求可以停止搜索其他外设
-        [manager connectPeripheral:peripheral options:nil]; // 连接外设
+        [centralM connectPeripheral:peripheral options:nil]; // 连接外设
     }
 }
 
@@ -106,7 +106,7 @@ centralM = [[CBCentralManager alloc] initWithDelegate:self queue:nil options:nil
         NSLog(@"%@",service.UUID);
         // 扫描每个service的Characteristics，扫描到后会进入方法： 
         // -(void)peripheral:(CBPeripheral *)peripheral didDiscoverCharacteristicsForService:(CBService *)service error:(NSError *)error
-        peripheral discoverCharacteristics:nil forService:service];
+        [peripheral discoverCharacteristics:nil forService:service];
     }
 
 }
