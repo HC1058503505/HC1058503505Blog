@@ -202,8 +202,13 @@ peripheralManager = [[CBPeripheralManager alloc]initWithDelegate:self queue:nil]
 }
 
 ```
+
+程序运行流程图如下:
+![CBPeripheral-image](/images/CBPeripheral.jpg)
+
 ---
 原文地址：
+[Kenshin Cui](http://www.cnblogs.com/kenshincui/p/4220402.html#bluetooth)
 [liuyanwei](http://liuyanwei.jumppo.com/2015/09/07/ios-BLE-3.html)
 第三方框架：
 [BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth)

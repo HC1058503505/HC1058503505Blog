@@ -234,9 +234,13 @@ centralM = [[CBCentralManager alloc] initWithDelegate:self queue:nil options:nil
     [centralM cancelPeripheralConnection:peripheral];
 }
 ```
+程序运行流程图如下:
+![CBCentral-image](/images/CBCentral.jpg)
+
 ---
 
 参考文章:
+[Kenshin Cui](http://www.cnblogs.com/kenshincui/p/4220402.html#bluetooth)
 [ImJackXu](http://blog.csdn.net/dolacmeng/article/details/46457487)
 [liuyanwei](http://liuyanwei.jumppo.com/2015/08/14/ios-BLE-2.html)
 [Core Bluetooth Programing Guide](https://developer.apple.com/library/content/documentation/NetworkingInternetWeb/Conceptual/CoreBluetooth_concepts/AboutCoreBluetooth/Introduction.html#//apple_ref/doc/uid/TP40013257-CH1-SW1)
