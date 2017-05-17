@@ -1,7 +1,8 @@
 ---
 title: iOS蓝牙开发(三)
 date: 2017-04-25 15:18:35
-categories: "iOS蓝牙开发"
+tags: iOS蓝牙开发
+categories: iOS开发
 ---
 app作为外设被连接的实现 <!--more-->
 

@@ -1,7 +1,8 @@
 ---
 title: iOS蓝牙开发(二)
 date: 2017-04-25 11:19:22
-categories: iOS蓝牙开发
+tags: iOS蓝牙开发
+categories: iOS开发
 ---
 iOS蓝牙中心模式连接外设，数据接收及发送。<!--more-->
 

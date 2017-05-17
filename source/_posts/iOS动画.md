@@ -1,7 +1,8 @@
 ---
 title: iOS动画
 date: 2017-04-28 15:56:19
-categories: iOS动画
+tags: iOS动画
+categories: iOS开发
 ---
 本章主要介绍iOS动画的基本使用，是通过一个一个实例来介绍iOS动画的基本使用。<!--more-->
 
