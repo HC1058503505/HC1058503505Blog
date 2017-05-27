@@ -5,7 +5,7 @@ tags: HTML
 categories: Web开发
 ---
 
-HTML速查表，以备日常使用。 <!-- more -->
+> HTML速查表，以备日常使用。 <!-- more -->
 
 ## HTML基本文档
 

@@ -4,7 +4,7 @@ date: 2017-04-24 16:26:20
 tags: iOS蓝牙开发
 categories: iOS开发
 ---
-蓝牙4.0的低能耗，使得蓝牙的应用越来越广泛，穿戴设备、智能家居等都有所涉及。本文主要介绍蓝牙开发相关基础知识，内容主要来自于[Apple官方开发文档][1]。<!--more-->
+> 蓝牙4.0的低能耗，使得蓝牙的应用越来越广泛，穿戴设备、智能家居等都有所涉及。本文主要介绍蓝牙开发相关基础知识，内容主要来自于[Apple官方开发文档][1]。<!--more-->
 [1]:https://developer.apple.com/library/content/documentation/NetworkingInternetWeb/Conceptual/CoreBluetooth_concepts/CoreBluetoothOverview/CoreBluetoothOverview.html#//apple_ref/doc/uid/TP40013257-CH2-SW1
 
 ### 中心模式和外设模式
