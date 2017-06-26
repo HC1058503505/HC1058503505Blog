@@ -17,7 +17,7 @@ rss:
 since: 2017
 
 # icon between year and author @Footer
-authoricon: heart
+authoricon: heartbeat
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
@@ -480,7 +480,7 @@ use_motion: true
 fancybox: true
 
 # Canvas-nest
-canvas_nest: false
+canvas_nest: true
 
 #three_waves
 three_waves: false

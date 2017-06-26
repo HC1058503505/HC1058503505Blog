@@ -76,5 +76,5 @@ theme: hexo-theme-next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://git.coding.net/houcong/houcong.git 
+  repository: https://github.com/HC1058503505/HC1058503505.github.io.git 
   branch: master
