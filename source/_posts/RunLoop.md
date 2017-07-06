@@ -68,7 +68,44 @@ self.timer = [NSTimer scheduledTimerWithTimeInterval:0.0625
 ```objc
 NSDefaultRunLoopMode -> UITrackingRunLoopMode -> NSDefaultRunLoopMode
 ```
+## RunLoop与GCD定时器
+GCD定时器的优势:不受RunLoop的运行模式的影响
+```swift
+class ViewController: NSViewController {
+var timerSource:DispatchSourceTimer!
+var isStop:Bool = false
+override func viewDidLoad() {
+    super.viewDidLoad()
+    // DispatchSourceTimer
+    let timer = DispatchSource.makeTimerSource(flags: [], queue: DispatchQueue.main)
+    timerSource = timer // 注意:需要保持拥有，不然会立即释放掉
+    timerSource.scheduleRepeating(deadline: .now(), interval: .microseconds(40))
+    
+    timerSource.setEventHandler {
+        print("Hello")
+    }
+    timerSource.resume()
+    // Timer
+    // time会被添加到RunnLoop当中，不需要保持拥有
+    let time = Timer(fire: Date.distantPast, interval: 0.5, repeats: true) { (time) in
+        print("Timer")
+    }
+    
+    RunLoop.current.add(time, forMode: .defaultRunLoopMode)
+    
+}
 
+@IBAction func stop(_ sender: NSButton) {
+    
+    if isStop {
+        timerSource.resume()
+    } else {
+        timerSource.suspend()
+    }
+    
+    isStop = !isStop
+}
+```
 ## AFNetworking 常驻线程
 通常执行完方法后线程就销毁了，那么现在有这样的需求，需要一条子线程一直存在，等待处理任务，与主线程之间互不干扰  (可以类比主线程存在原理，即添加消息循环Runloop)
 ```objc
