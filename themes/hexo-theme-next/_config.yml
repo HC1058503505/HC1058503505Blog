@@ -307,7 +307,7 @@ disqus:
 #hypercomments_id:
 
 # Gentie productKey
-gentie_productKey: ed8b00df45884dd5bd80c18387cf58d9
+# gentie_productKey: ed8b00df45884dd5bd80c18387cf58d9
 
 # changyan
 changyan:
@@ -317,7 +317,7 @@ changyan:
 
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
-#youyan_uid: your uid
+youyan_uid: 2139755
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
